@@ -1,3 +1,5 @@
-"hello world"
+greetings = "hello_world"
 
-hello_world
+irb (greetings)
+
+
